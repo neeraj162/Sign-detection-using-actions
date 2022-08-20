@@ -1,0 +1,8 @@
+Logs/
+.ipynb_checkpoints/
+*.zip
+*.log
+*.logs
+.env
+*error.log*
+*debug.log*
